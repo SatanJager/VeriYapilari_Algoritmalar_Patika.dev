@@ -1,2 +1,3 @@
-# VeriYapilari_Algoritmalar_Patika.dev
+# VERİ YAPILARI VE ALGORİTMALAR - Patika.dev
+
 Veri Yapıları ve Algoritmalar Dersi Kaynakçası - Ödevleri
