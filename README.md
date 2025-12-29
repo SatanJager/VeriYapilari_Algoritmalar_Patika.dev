@@ -4,10 +4,9 @@ Veri yapıları ve algoritmalar dersi kaynakçalarını ve yapılan ödevleri i�
 
 ## Ödevler - Homeworks
 
-*
-*
-*
-
+* Insertion Sort Projesi 
+* Merge Sort Projesi
+* Binary Search Tree Projesi
 
 ## Kaynakçalar
 
