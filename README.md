@@ -1,3 +1,16 @@
-# VERİ YAPILARI VE ALGORİTMALAR - Patika.dev
+# Patika.dev Veri Yapıları ve Algoritmalar
 
-Veri Yapıları ve Algoritmalar Dersi Kaynakçası - Ödevleri
+Veri yapıları ve algoritmalar dersi kaynakçalarını ve yapılan ödevleri içermektedir.
+
+## Ödevler - Homeworks
+
+*
+*
+*
+
+
+## Kaynakçalar
+
+* Kaynakca.md
+
+
